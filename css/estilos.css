@@ -1,0 +1,15 @@
+.color-nav{
+background-color: burlywood;
+}
+
+.nav-link{
+  color: black;
+}
+
+.jumbotron{
+  background-image: url(../imagenes/fondo\ 2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  color: white
+}
