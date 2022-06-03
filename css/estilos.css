@@ -27,10 +27,17 @@
 }
 
 .paginacion-arroces{
-  margin-top: 610px;
+  margin-top: 10px;
 }
 
+.card-title{
+  color: black;
+  margin-right: 100px;
+}
 
+.card-text{
+  color: black;
+}
 
 .page-link{
   background-color: #ff9900;
