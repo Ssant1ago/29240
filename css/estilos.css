@@ -1,3 +1,5 @@
+
+
 .color-nav{
   background: linear-gradient(to bottom, #ffff00 0%, #ff9900 100%);
 }
@@ -11,16 +13,37 @@
   margin-bottom: 0;
   background-size: cover;
   background-position: center;
-  height: 750px;
+  height: 800px;
   color: white
+}
+
+.paginacion{
+  margin-top: 550px;
+  
+}
+
+.paginacion-ubicacion{
+  margin-top: 125px;
+}
+
+.paginacion-arroces{
+  margin-top: 610px;
+}
+
+
+
+.page-link{
+  background-color: #ff9900;
+  color: black;
+  border: #ff9900;
 }
 
 .boton{
   color: burlywood;
 }
 
-
 .pie-pagina {
+  margin-top: 0;
   width: 100%;
   background: linear-gradient(to bottom, #ff9900 0%, #ffff00 100%);
 }
